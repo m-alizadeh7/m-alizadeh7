@@ -17,7 +17,9 @@ I'm a versatile professional with a diverse background in software design, autom
 
 ## 🌱 Constantly Learning
 While I have a diverse skillset, I believe in continuous learning and staying updated with the latest trends. Currently, I'm expanding my knowledge in the following areas:
-- React and Node.js development
+- Python Development
+- Embedded Systems & Raspberry Pi projects
+- Linux Operating System
 
 ## 🔗 Connect with Me
 You can find me on different platforms. Let's connect and collaborate:
